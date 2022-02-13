@@ -1,3 +1,7 @@
+#Scrapes the temprature from the Aussie BOM site.
+#I think this doesn't work now but I am literally...
+#Yeah it doesn't work due to website changes. But it used too. :)
+
 import requests
 from bs4 import BeautifulSoup
 
