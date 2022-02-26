@@ -1,16 +1,16 @@
 //Replicated TicTacToe / Knots and Crosses game that people play.
+//I feel like I've done something cursed here by trying to use a class for everything.
+//I might just make what I think is a standard way of doing this soon.
+
+
 #include <iostream>
-#include <stdlib.h> 
+#include <stdlib.h>
+#include "tictactoe.h" 
 
 class Screen {
-    char Position[9] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
-    char SuggestedMove;
-    unsigned int acceptedMoveCounter;
 
     //Super Secret AI algorithm I swear. Basically machine learning here.
     private:
-
-    char UsedMoves[9];
     bool MoveIsUsed;
 
     void aiMove()
@@ -39,7 +39,8 @@ class Screen {
     
     void playerMove(char move)
     {
-        for (unsigned int i = 0; i < 9; i++)
+        //Checking if move has places has been used already.
+        for (int i = 0; i < 9; i++)
         {
             if (UsedMoves[i] == move)
             {
@@ -49,7 +50,7 @@ class Screen {
 
         if (MoveIsUsed)
         {
-            RejectMove(true);
+            RejectMove(MoveIsUsed);
         }
 
         else
@@ -93,12 +94,28 @@ class Screen {
     }
 };
 
+Screen Output;
+
+bool GameStart()
+{
+    Output.display();
+    Output.playerMoveInitalise();
+    bool state = true;
+    return state;
+}
+
 
 int main()
 {
-    Screen Output;
-    //Output.InitializeVariables();
-    Output.display();
-    Output.playerMoveInitalise();
-    std::cin.get();
+    bool KeepActive = true; 
+    char Position[9] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
+    char SuggestedMove;
+    unsigned int acceptedMoveCounter;
+    char UsedMoves[9];
+    while (KeepActive == true)
+    {
+        GameStart();
+    }
+
+    return 0;
 }
