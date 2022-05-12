@@ -4,9 +4,10 @@
 1. Necrons: Battleforce ~Worldscour Legion
     - Psychomancer > Built
     - Necron Warriors
-    - Flayed Ones
-    - Ophydian Destroyers
+    - Flayed Ones > Built
+    - Ophydian Destroyers > Built
     - Lokhust Heavy Destroyer > Built
+    - Canoptek Doomstalker
     - Canoptek Doomstalker
 2. Adepta Mechanicus: Battleforce ~ Omnissiah's Talon
     - 1x Tech-Priest Manipulus
@@ -36,7 +37,7 @@
     - 3x Myphitic Blight-haulers
     - 7x Plague Marines
 
-> TOTAL: 27 Kits to build
+> TOTAL: 26 Kits to build
 
 > ### Sir Fancy Beard's
 1. Orks: Battleforce ~ Killdakka Warband
