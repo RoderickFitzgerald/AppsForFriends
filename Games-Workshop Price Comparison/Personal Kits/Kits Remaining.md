@@ -1,14 +1,14 @@
 # Kits Remaining
 
 > ### Katsprky's 
-1. Necrons: Battleforce ~Worldscour Legion
-    - Psychomancer > Built
-    - Necron Warriors
-    - Flayed Ones > Built
-    - Ophydian Destroyers > Built
-    - Lokhust Heavy Destroyer > Built
-    - Canoptek Doomstalker
-    - Canoptek Doomstalker
+1. Necrons: Battleforce ~Worldscour Legion [COMPLETED]
+    - ~~Psychomancer~~
+    - ~~Necron Warriors~~
+    - ~~Flayed Ones~~
+    - ~~Ophydian Destroyers~~
+    - ~~Lokhust Heavy Destroyer~~
+    - ~~Canoptek Doomstalker~~
+    - ~~Canoptek Doomstalker~~
 2. Adepta Mechanicus: Battleforce ~ Omnissiah's Talon
     - 1x Tech-Priest Manipulus
     - 1x Ironstrider Ballistarius
@@ -24,10 +24,10 @@
     - 10x Gretchin and 1x Runtherd
     - 20x Boyz
 4. Adepta Sororitas: Battleforce ~ Purgatos Mission
-    - 1x Sister Dogmata
+    - ~~1x Sister Dogmata~~
     - 1x Immolator
     - 1x Exorcist
-    - 5x Celestian Sacresants
+    - ~~5x Celestian Sacresants > Built~~
     - 10x Battle Sister Squad and 1x Incensor Cherub
 5. Death Guard: Battleforce ~ Plaguefester Warband 
     - 1x Plague Champion
@@ -37,7 +37,7 @@
     - 3x Myphitic Blight-haulers
     - 7x Plague Marines
 
-> TOTAL: 26 Kits to build
+> TOTAL: 21 Kits to build
 
 > ### Sir Fancy Beard's
 1. Orks: Battleforce ~ Killdakka Warband
@@ -56,9 +56,9 @@
     - 10x Primaris Intercessors
 3. Eldritch Omens
     - > Craftworlds
-    - 1x Autarch > Built
-    - 3x Shroud Runners > Built
-    - 5x Rangers > Built
+    - ~~1x Autarch~~
+    - ~~3x Shroud Runners~~
+    - ~~5x Rangers~~
     - > Chaos
     - 1x Warpsmith
     - 5x Chosen
@@ -67,7 +67,7 @@
     - > Craftworlds
     - 1x Autarch
     - 3x Shroud Runners
-    - 5x Rangers > Built
+    - ~~5x Rangers~~
     - > Chaos
     - 1x Warpsmith
     - 5x Chosen
@@ -76,7 +76,7 @@
 5. Aeldari Combat Patrol
     - 1x Farseer
     - 1x Wraithlord
-    - 6x Windriders > Built
+    - ~~6x Windriders~~
     - 10x Guardians with 1x Heavy Weapons Platform
 6. Lynx 
 7. Hornet 
