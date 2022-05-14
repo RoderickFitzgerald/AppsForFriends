@@ -25,10 +25,10 @@
     - 20x Boyz
 4. Adepta Sororitas: Battleforce ~ Purgatos Mission
     - ~~1x Sister Dogmata~~
-    - 1x Immolator
+    - ~~1x Immolator~~
     - 1x Exorcist
     - ~~5x Celestian Sacresants > Built~~
-    - 10x Battle Sister Squad and 1x Incensor Cherub
+    - ~~10x Battle Sister Squad and 1x Incensor Cherub~~
 5. Death Guard: Battleforce ~ Plaguefester Warband 
     - 1x Plague Champion
     - 1x Plague Marine Icon Bearer
@@ -37,7 +37,7 @@
     - 3x Myphitic Blight-haulers
     - 7x Plague Marines
 
-> TOTAL: 21 Kits to build
+> TOTAL: 19 Kits to build
 
 > ### Sir Fancy Beard's
 1. Orks: Battleforce ~ Killdakka Warband
