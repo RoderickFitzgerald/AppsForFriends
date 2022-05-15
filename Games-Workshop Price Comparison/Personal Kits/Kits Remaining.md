@@ -36,8 +36,18 @@
     - 3x Deathshroud Terminators
     - 3x Myphitic Blight-haulers
     - 7x Plague Marines
+6. Piety & Pain
+    - > Drukhari
+    - Lelith Hesperax
+    - 10x Wyches
+    - 5x Scourges
+    - 1x Venom
+    - > Adepta Sororitas
+    - 1x Palatine
+    - 5x Retributors w/ 2x Armorium Cherubs
+    - 1x Immolator
 
-> TOTAL: 18 Kits to build
+> TOTAL: 25 Kits to build
 
 > ### Sir Fancy Beard's
 1. Orks: Battleforce ~ Killdakka Warband
