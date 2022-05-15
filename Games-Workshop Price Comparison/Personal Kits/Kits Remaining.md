@@ -23,10 +23,10 @@
     - 5x Nobz and 1x Grot
     - 10x Gretchin and 1x Runtherd
     - 20x Boyz
-4. Adepta Sororitas: Battleforce ~ Purgatos Mission
+4. Adepta Sororitas: Battleforce ~ Purgatos Mission [COMPLETED]
     - ~~1x Sister Dogmata~~
     - ~~1x Immolator~~
-    - 1x Exorcist
+    - ~~1x Exorcist~~
     - ~~5x Celestian Sacresants > Built~~
     - ~~10x Battle Sister Squad and 1x Incensor Cherub~~
 5. Death Guard: Battleforce ~ Plaguefester Warband 
@@ -37,7 +37,7 @@
     - 3x Myphitic Blight-haulers
     - 7x Plague Marines
 
-> TOTAL: 19 Kits to build
+> TOTAL: 18 Kits to build
 
 > ### Sir Fancy Beard's
 1. Orks: Battleforce ~ Killdakka Warband
@@ -83,9 +83,9 @@
 8. Wraithknight
 9. Wraithknight
 10. Wraithknight
-11. Maugen Ra 
+11. ~~Maugen Ra~~
 12. Guardians 
-13. Dark Reapers
+13. ~~Dark Reapers~~
  > Chaos Space Marines
 14. Chaos Marines
 15. Chaos Bikers
