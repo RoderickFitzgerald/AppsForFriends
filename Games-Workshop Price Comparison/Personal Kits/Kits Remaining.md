@@ -1,7 +1,7 @@
 # Kits Remaining
 
 > ### Katsprky's 
-1. <font color="Green">Necrons: Battleforce ~Worldscour Legion [COMPLETED]</font>
+1. Necrons: Battleforce ~Worldscour Legion [COMPLETED]
     - ~~Psychomancer~~
     - ~~Necron Warriors~~
     - ~~Flayed Ones~~
@@ -9,34 +9,34 @@
     - ~~Lokhust Heavy Destroyer~~
     - ~~Canoptek Doomstalker~~
     - ~~Canoptek Doomstalker~~
-2. <font color="Cyan">Adepta Mechanicus: Battleforce ~ Omnissiah's Talon</font>
+2. Adepta Mechanicus: Battleforce ~ Omnissiah's Talon [COMPLETED]
     - ~~1x Tech-Priest Manipulus~~
-    - 1x Ironstrider Ballistarius
-    - 3x Serberys Raiders
-    - 5x Sicarian Ruststalkers
-    - 5x Pteraxii Skystalkers
-    - 10x Skitarii Rangers
-3. <font color="Red">Orks: Battleforce ~ Killdakka Warband</font>
-    - 1x Big Mek with Shokk Attack Gun
-    - 1x Deffkilla Wartrike
-    - 1x Dakkajet
-    - 5x Nobz and 1x Grot
-    - 10x Gretchin and 1x Runtherd
-    - 20x Boyz
-4. <font color="Green">Adepta Sororitas: Battleforce ~ Purgatos Mission [COMPLETED]</font>
+    - ~~1x Ironstrider Ballistarius~~
+    - ~~3x Serberys Raiders~~
+    - ~~5x Sicarian Ruststalkers~~
+    - ~~5x Pteraxii Skystalkers~~
+    - ~~10x Skitarii Rangers~~
+3. Orks: Battleforce ~ Killdakka Warband [COMPLETED]
+    - ~~1x Big Mek with Shokk Attack Gun~~
+    - ~~1x Deffkilla Wartrike~~
+    - ~~1x Dakkajet~~
+    - ~~5x Nobz and 1x Grot~~
+    - ~~10x Gretchin and 1x Runtherd~~
+    - ~~20x ~~
+4. Adepta Sororitas: Battleforce ~ Purgatos Mission [COMPLETED]
     - ~~1x Sister Dogmata~~
     - ~~1x Immolator~~
     - ~~1x Exorcist~~
     - ~~5x Celestian Sacresants > Built~~
     - ~~10x Battle Sister Squad and 1x Incensor Cherub~~
-5. <font color="Red">Death Guard: Battleforce ~ Plaguefester Warband </font>
-    - 1x Plague Champion
-    - 1x Plague Marine Icon Bearer
+5. Death Guard: Battleforce ~ Plaguefester Warband 
+    - 1x Plague Champion < Duplicated ;-; >
+    - 1x Plague Marine Icon Bearer < Missing ;-; >
     - 1x Plagueburst Crawler
     - 3x Deathshroud Terminators
     - 3x Myphitic Blight-haulers
     - 7x Plague Marines
-6. <font color="Red">Piety & Pain</font>
+6. Piety & Pain
     - > Drukhari
     - Lelith Hesperax
     - 10x Wyches
@@ -47,7 +47,7 @@
     - 5x Retributors w/ 2x Armorium Cherubs
     - 1x Immolator
 
-> TOTAL: 24 Kits to build
+> TOTAL: 13 Kits to build
 
 > ### Sir Fancy Beard's
 1. Orks: Battleforce ~ Killdakka Warband
@@ -58,10 +58,10 @@
     - 10x Gretchin and 1x Runtherd
     - 20x Boyz
 2. Shieldbreaker (Marines)
-    - 1x Primaris Captain
+    - ~~1x Primaris Captain~~
     - 1x Storm Speeder Hailstrike
-    - 3x Bladeguard Veterans
-    - 5x Heavy Intercessors
+    - ~~3x Bladeguard Veterans~~
+    - ~~5x Heavy Intercessors~~
     - 10x Assault Intercessors
     - 10x Primaris Intercessors
 3. Eldritch Omens
@@ -114,6 +114,6 @@
 21. Meganobz
 22. Ork Boyz
  
-> TOTAL: 43 Kits to build.
+> TOTAL: 39 Kits to build.
 
  
